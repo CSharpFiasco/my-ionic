@@ -1,3 +1,7 @@
+# my-ionic
+
+Just a simple ionic app to help out someone in the ionic community
+
 ## Results from
     ionic info
 
